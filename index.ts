@@ -1,1 +1,1 @@
-import {LOG} from './inc';
+import {Log} from './inc';

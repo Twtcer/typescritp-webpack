@@ -1,2 +1,2 @@
  
-export const LOG = console.log.bind(console);
+export const Log = console.log.bind(console);
